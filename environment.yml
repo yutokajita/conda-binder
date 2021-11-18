@@ -7,7 +7,6 @@ dependencies:
   - pandas
   - geopandas
   - networkx
-  - mojimoji
   - scipy
   - scikit-learn
   - pygraphviz
