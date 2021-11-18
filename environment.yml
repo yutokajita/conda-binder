@@ -3,16 +3,14 @@ channels:
   - conda-forge
 dependencies:
   - numpy
-  - psutil
-  - toolz
   - matplotlib
-  - dill
   - pandas
-  - partd
-  - dask
   - geopandas
   - networkx
   - mojimoji
   - scipy
   - scikit-learn
   - pygraphviz
+  - seaborn
+  - pip:
+    - mojimoji
